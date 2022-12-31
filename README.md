@@ -1,8 +1,4 @@
-# Stack App
-
-- This app reverse any string given
-- App is using stack data structure
-- first in last out methodology
+# Queue App
 
 ## Technologies used
 
@@ -11,8 +7,8 @@
 
 ## Setup and usage
 
-Live page [here](https://stringreversingapp.netlify.app/)
+Live page [here]()
 
 ## Sources
 
-- [source code](https://github.com/hasanmd91/stack_app_)
+- [source code]()
