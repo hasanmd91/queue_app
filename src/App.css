@@ -1,0 +1,11 @@
+@import url("https://fonts.googleapis.com/css2?family=Fira+Sans:ital@1&family=Montserrat:ital@0;1&family=Poppins:ital@0;1&family=Roboto&family=Satisfy&display=swap");
+
+* {
+  box-sizing: border-box;
+  padding: 0px;
+  margin: 0px;
+}
+
+body {
+  font-family: "Poppins", sans-serif;
+}
