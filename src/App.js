@@ -31,7 +31,7 @@ const fillingTiles = (e) => {
       if (tileArray.length === 0) {
         clearInterval(interval);
       }
-    }, 300);
+    }, 400);
   }
 };
 

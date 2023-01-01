@@ -1,5 +1,9 @@
 # Queue App
 
+- Click all the boxes randomly to fill them with colour
+- After clicking all the boxes colour will disappear acording to the order they were clicked
+- The queue data structure has been used to build this app.
+
 ## Technologies used
 
 - React.js
@@ -7,8 +11,8 @@
 
 ## Setup and usage
 
-Live page [here]()
+Live page [here](https://queuecolorapp.netlify.app/)
 
 ## Sources
 
-- [source code]()
+- [source code](https://github.com/hasanmd91/queue_app)
