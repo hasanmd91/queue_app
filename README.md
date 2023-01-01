@@ -18,7 +18,5 @@ Live page [here](https://queuecolorapp.netlify.app/)
 - [source code]()
 
 ## Video
-
-
 https://user-images.githubusercontent.com/99100318/210157989-ef866c6a-4cc7-41ae-85da-300e6f2a585f.mp4
 
